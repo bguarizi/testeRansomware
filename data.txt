@@ -1,0 +1,15 @@
+# Dados Financeiros - Fictício
+Empresa: ABC Corp
+CNPJ: 12.345.678/0001-99
+---------------------------------
+Faturas:
+- Cliente: João Silva | Valor: R$ 2.500,00 | Vencimento: 15/01/2025
+- Cliente: Maria Oliveira | Valor: R$ 3.750,00 | Vencimento: 20/01/2025
+- Cliente: Empresa XYZ | Valor: R$ 8.000,00 | Vencimento: 25/01/2025
+
+Pagamentos Pendentes:
+- Fornecedor: Papelaria ABC | Valor: R$ 1.200,00 | Data Limite: 18/01/2025
+- Fornecedor: TI Solutions | Valor: R$ 5.300,00 | Data Limite: 22/01/2025
+
+Total em Caixa: R$ 15.750,00
+---------------------------------
