@@ -26,9 +26,10 @@ Para criptografar o arquivo utilize o comando:
 python3 encrypter.py
 ```
 
+Verifique o arquivo novo gerado com a extensão final ".ransomwaretroll", este terá os dados criptografados.
+
 ![Alt text](./arquivoEncriptado.png "Optional title")
 
-Verifique o arquivo novo gerado com a extensão final ".ransomwaretroll", este terá os dados criptografados.
 Para descriptografar o arquivo utilize o comando:
 
 ```bash
