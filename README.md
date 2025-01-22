@@ -10,6 +10,8 @@ A chave utilizada possui 128 bits, sendo apenas um teste para introduzir os conh
 
 Neste cenário busquei replicar um caso em que um atacante acessa um dispositivo em que há o armazenamento de dados financeiros em um arquivo de texto. Neste cenário o atacante poderia criptografar e ameaçar as vitimas sobre a exposição ou a não devolução dos dados, sendo dados financeiros cruciais para a gestão financeira de uma organização.
 
+OBS.: Os dados utilizados são fictícios, não refletindo a realidade de nenhuma empresa real.
+
 ## Uso do código
 
 Para utilizar o código em questão, basta clonar o repositório ou baixar os arquivos em sua máquina.
